@@ -1,0 +1,38 @@
+body{
+text-align: center;
+}
+
+.line{
+    height: 6px;
+    width:70px ;
+    background-color: black;
+    margin: 8px auto;
+}
+
+#Apps{
+    background-color: aqua;
+}
+
+#Games{
+    background-color: chocolate;
+}
+#chatbot{
+    background-color: burlywood;
+}
+
+#myCarousel{
+    background-color: red;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+    
+}
+
+.carousel-inner p{
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+
+}
